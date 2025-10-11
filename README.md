@@ -2,6 +2,6 @@
 ----------
 # Integrantes
 - Mayara (@mayaramoura1)
-- Vanderson (@Xvanderx)
+- Vanderson (@xvanderx)
 - Weller (@Wlllr)
 -------
