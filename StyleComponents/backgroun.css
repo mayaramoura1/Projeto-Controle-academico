@@ -1,0 +1,33 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+  .fundo-da-pagina {
+    background-size: cover;
+    background-image: url("background-picture.jpg");
+    background-position: bottom;
+    height: 100vh;
+    position: relative;
+  }
+
+  .sobreposicao {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .container-formulario {
+    z-index: 1;
+    position: relative;
+  }
+
+  .caixinha-formulario {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  }
